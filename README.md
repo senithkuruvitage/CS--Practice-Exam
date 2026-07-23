@@ -1,6 +1,6 @@
 # 🎓 B.Sc. (Hons) in Computer Science
 
-This repository documents my academic journey, coursework, practical activities, assignments, and projects completed during my **B.Sc. (Hons) in Computer Science** degree.
+High-quality practice papers designed to help Computer Science undergraduates prepare for midterm and final examinations.
 
 ---
 
