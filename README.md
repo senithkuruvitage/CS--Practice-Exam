@@ -112,20 +112,3 @@ This repository documents my academic journey, coursework, practical activities,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"/>
 
 </p>
-
----
-
-## 🎯 Career Interests
-
-I am interested in developing my knowledge and skills in:
-
-* Software engineering
-* Artificial intelligence
-* Machine learning
-* Deep learning
-* Data science
-* Computer vision
-* Robotics
-* Cybersecurity
-* Full-stack development
-* Research and innovation
